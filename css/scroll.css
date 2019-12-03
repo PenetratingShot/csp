@@ -1,0 +1,23 @@
+/* scrollbar customization courtesy of w3schools */
+
+::-webkit-scrollbar {
+  width: 10px;
+  opacity: 0.5;
+  background: transparent;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #a5a5a5; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b3b5b5; 
+}
