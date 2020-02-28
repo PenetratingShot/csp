@@ -16,7 +16,6 @@
 ::-webkit-scrollbar-thumb {
   background: #a5a5a5; 
   border-radius: 10px;
-  background: transparent;
 }
 
 /* Handle on hover */
